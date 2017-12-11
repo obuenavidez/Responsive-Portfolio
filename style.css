@@ -1,0 +1,110 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+  float: center;
+}
+
+body {
+ background: #777;
+ font-color
+ width: 960px;
+ font-size: 18px;
+ float: center;
+ font-family: 'Arial', 'Helvetica Neue', 'Helvetica' ,'sans-serif;
+}
+
+ 
+
+
+header{
+	background: #ebebeb;
+	width: 960px;
+	height :90px;
+	float: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	padding-top: 40px;
+	color:gray;
+
+
+}
+
+nav{
+	background: #ebebeb;
+	width: 960px;
+	height :100px;
+	float: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	padding-top: 40px;
+	color:gray;
+
+
+}
+
+footer{
+	background: #ebebeb;
+	width: 960px;
+	height :100px;
+	float: center;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	text-align: center;
+	padding-top: 40px;
+	color:gray;
+
+
+}
+
+section {
+	background: #ebebeb;
+	width: 440px;
+	height :200px;
+	float: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 40px;
+	color:gray;
+
+
+
+}
+
+article {
+	color:gray;	
+	background: #777;
+	width: 440px;
+	height :100px;
+
+
+}	
+
+aside {
+	background: #ebebeb;
+	width: 480px;
+	height :200px;
+	float: center;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	padding-top: 40px;
+	color:gray;
+
+
+}
+
+
+#insideH {
+ 
+
+}
+
+#container {
+ background: #777;
+ width: 960px;
+ font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+ font-size: 18px;
+ float: center;
+
+}
